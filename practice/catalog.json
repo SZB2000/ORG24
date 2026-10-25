@@ -1,13 +1,15 @@
 {
   "schema": 1,
+  "revision": 2,
   "songs": [
     {
-      "id": "liebie-adu-intro-v1",
-      "title": "离别 · 开头两小节",
+      "id": "liebie-adu-full-v1",
+      "title": "离别",
       "artist": "阿杜",
-      "url": "https://raw.githubusercontent.com/SZB2000/ORG24/47f74d3b70bd53f4be16a55fd564cb524720d0ba/practice/liebie-adu-intro-v1.json",
-      "sha256": "8894ba223cfa7169213667ba104354abdb813cd82c97a987fefe6cbd1668b225",
-      "size": 1203
+      "url": "https://raw.githubusercontent.com/SZB2000/ORG24/6e1029c352c4a515cd2d2504fbdb4d0a7b4c6f87/practice/liebie-adu-full-v1.json",
+      "sha256": "68c1f7e6f018c82e33ca52a1b0b73178a6b6628a16c602a32ed70bfd4aa98da2",
+      "size": 96145,
+      "bundled": true
     }
   ]
 }
