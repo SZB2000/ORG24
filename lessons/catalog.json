@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "revision": 1,
+  "songs": [
+    {
+      "id": "dongji-taibei",
+      "title": "冬季到台北来看雨",
+      "artist": "孟庭苇",
+      "engine": "org24-guitar-v1",
+      "revision": 1,
+      "size": 4585511,
+      "unpackedSize": 5448709,
+      "sha256": "2f8972103c9df65b2ac5cab8e6ecc9f5ad8d1fe8d774fe8140278ec2e0f7197a",
+      "url": "https://github.com/SZB2000/ORG24/releases/download/lessons-v1/dongji-taibei-v1.zip"
+    }
+  ]
+}
