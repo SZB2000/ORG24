@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "id": "liebie-adu-intro-v1",
+  "title": "离别 · 开头两小节",
+  "artist": "阿杜",
+  "key": "Am（谱面调，1=C）",
+  "mode": "wait-note",
+  "source": "离别_阿杜.pdf，第1页，主歌开头两小节",
+  "notes": [
+    {
+      "midi": 72,
+      "label": "高音1"
+    },
+    {
+      "midi": 71,
+      "label": "7"
+    },
+    {
+      "midi": 69,
+      "label": "6"
+    },
+    {
+      "midi": 69,
+      "label": "6"
+    },
+    {
+      "midi": 71,
+      "label": "7"
+    },
+    {
+      "midi": 69,
+      "label": "6"
+    },
+    {
+      "midi": 72,
+      "label": "高音1"
+    },
+    {
+      "midi": 74,
+      "label": "高音2"
+    },
+    {
+      "midi": 76,
+      "label": "高音3"
+    },
+    {
+      "midi": 74,
+      "label": "高音2"
+    },
+    {
+      "midi": 72,
+      "label": "高音1"
+    },
+    {
+      "midi": 71,
+      "label": "7"
+    },
+    {
+      "midi": 72,
+      "label": "高音1"
+    },
+    {
+      "midi": 71,
+      "label": "7"
+    },
+    {
+      "midi": 69,
+      "label": "6"
+    },
+    {
+      "midi": 69,
+      "label": "6"
+    }
+  ],
+  "description": "单音旋律测试；连音合并，休止跳过；不考核节拍。",
+  "actions": []
+}
