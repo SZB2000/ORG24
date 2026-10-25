@@ -1,0 +1,5577 @@
+{
+  "schema": 1,
+  "revision": 2,
+  "id": "liebie-adu-full-v1",
+  "title": "离别",
+  "artist": "阿杜",
+  "key": "Am（谱面调，1=C）",
+  "mode": "wait-note",
+  "bpm": 67,
+  "style": "Slow Soul",
+  "source": "离别_阿杜.pdf，第1–2页",
+  "notes": [
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 1,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 1,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 2,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 2,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 2,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 2,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 2,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 2,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 2,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 2,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 3,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 3,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 3,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 3,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 3,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 3,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 3,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 3,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 4,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 4,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 4,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 4,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 4,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 4,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 4,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 4,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 4,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 4,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 5,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 5,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 5,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 5,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 5,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 5,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 5,
+      "beat": 3,
+      "meter": 4,
+      "chord": "E7",
+      "section": "前奏",
+      "page": 1,
+      "line": 1
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 6,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 6,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 6,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 6,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 6,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 6,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 6,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 6,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 7,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 7,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 7,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 7,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 7,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 7,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 7,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 7,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 8,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 8,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 8,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 8,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 8,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 65,
+      "label": "4",
+      "bar": 8,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 64,
+      "label": "3",
+      "bar": 9,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 62,
+      "label": "2",
+      "bar": 9,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 64,
+      "label": "3",
+      "bar": 9,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 64,
+      "label": "3",
+      "bar": 9,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 9,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 9,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 2
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 10,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 10,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 10,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 10,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 10,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 10,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 10,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 10,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 11,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 11,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 11,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 11,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 11,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 11,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 11,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 12,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 12,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 12,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 12,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 12,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 12,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 12,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 12,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 12,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 13,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 13,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 13,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 13,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 13,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 13,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "主歌一",
+      "page": 1,
+      "line": 3
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 14,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 14,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 14,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 14,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 14,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 14,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 15,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 15,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 15,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 15,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 15,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 15,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Em7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 15,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Em7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 16,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 16,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 16,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 16,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 16,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 16,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 17,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 17,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 17,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 17,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 17,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 17,
+      "beat": 4,
+      "meter": 4,
+      "chord": "C",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 17,
+      "beat": 4,
+      "meter": 4,
+      "chord": "C",
+      "section": "副歌一",
+      "page": 1,
+      "line": 4
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 18,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 18,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 18,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 18,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 18,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 18,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 18,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 18,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 19,
+      "beat": 1,
+      "meter": 2,
+      "chord": "Dm7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 19,
+      "beat": 1,
+      "meter": 2,
+      "chord": "Dm7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 19,
+      "beat": 2,
+      "meter": 2,
+      "chord": "Dm7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 19,
+      "beat": 2,
+      "meter": 2,
+      "chord": "Dm7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 20,
+      "beat": 1,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 20,
+      "beat": 1,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 20,
+      "beat": 2,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 20,
+      "beat": 2,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 20,
+      "beat": 3,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 20,
+      "beat": 3,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 20,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 20,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 21,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 21,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 21,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 21,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 21,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 21,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 5
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 22,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 22,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 22,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 22,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 22,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 23,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Em7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 64,
+      "label": "3",
+      "bar": 23,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Em7",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 24,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 24,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 24,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 25,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 25,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 25,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌一",
+      "page": 1,
+      "line": 6
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 26,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 26,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 26,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 26,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 26,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 26,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 26,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 26,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 27,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 27,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 27,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 27,
+      "beat": 3,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 27,
+      "beat": 3,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 27,
+      "beat": 3,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 27,
+      "beat": 4,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 27,
+      "beat": 4,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 28,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 28,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 28,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 28,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 28,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 28,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 28,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 28,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 29,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 29,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 29,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 29,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 83,
+      "label": "高音7",
+      "bar": 29,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 84,
+      "label": "超高音1",
+      "bar": 29,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 83,
+      "label": "高音7",
+      "bar": 29,
+      "beat": 3,
+      "meter": 4,
+      "chord": "E7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 29,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 29,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 29,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "间奏",
+      "page": 1,
+      "line": 7
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 30,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 30,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 30,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 83,
+      "label": "高音7",
+      "bar": 30,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 84,
+      "label": "超高音1",
+      "bar": 30,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 83,
+      "label": "高音7",
+      "bar": 30,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 30,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 30,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 31,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 31,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 31,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 31,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 31,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 32,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 32,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 32,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 32,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 32,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 32,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 32,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 32,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 32,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 32,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 32,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 32,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 33,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 33,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 33,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 33,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 88,
+      "label": "超高音3",
+      "bar": 33,
+      "beat": 3,
+      "meter": 4,
+      "chord": "E7",
+      "section": "间奏",
+      "page": 1,
+      "line": 8
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 34,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 34,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 34,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 34,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 34,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 34,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 34,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 34,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 35,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 35,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 35,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 35,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 35,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 35,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 35,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 35,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 36,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 36,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 36,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 36,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 36,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 65,
+      "label": "4",
+      "bar": 36,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 64,
+      "label": "3",
+      "bar": 37,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 62,
+      "label": "2",
+      "bar": 37,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 64,
+      "label": "3",
+      "bar": 37,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 64,
+      "label": "3",
+      "bar": 37,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Esus7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 37,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 37,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 9
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 38,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 38,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 38,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 38,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 38,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 38,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 38,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 38,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G_B",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 39,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 39,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 39,
+      "beat": 1,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 39,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 39,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 39,
+      "beat": 2,
+      "meter": 4,
+      "chord": "C",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 39,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 40,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 40,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 40,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 40,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 40,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 40,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 40,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 40,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 40,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 41,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 41,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 41,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 41,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 41,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 41,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "主歌二",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 42,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 42,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 42,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 42,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 42,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 42,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 43,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 43,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 43,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 43,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 43,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 43,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Em7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 43,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Em7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 44,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 44,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 44,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 44,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 44,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 44,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 45,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 45,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 45,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 45,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 45,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 45,
+      "beat": 4,
+      "meter": 4,
+      "chord": "C",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 45,
+      "beat": 4,
+      "meter": 4,
+      "chord": "C",
+      "section": "副歌二",
+      "page": 2,
+      "line": 1
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 46,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 46,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 46,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 46,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 46,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 46,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 46,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 46,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 47,
+      "beat": 1,
+      "meter": 2,
+      "chord": "Dm7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 47,
+      "beat": 1,
+      "meter": 2,
+      "chord": "Dm7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 47,
+      "beat": 2,
+      "meter": 2,
+      "chord": "Dm7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 47,
+      "beat": 2,
+      "meter": 2,
+      "chord": "Dm7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 48,
+      "beat": 1,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 48,
+      "beat": 1,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 48,
+      "beat": 2,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 48,
+      "beat": 2,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 48,
+      "beat": 3,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 80,
+      "label": "高音升5",
+      "bar": 49,
+      "beat": 1,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 49,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "副歌二",
+      "page": 2,
+      "line": 2
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 50,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 50,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 50,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 50,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 50,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 50,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 51,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 51,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 51,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 51,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 51,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 51,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Em7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 51,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Em7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 52,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 52,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 81,
+      "label": "高音6",
+      "bar": 52,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 52,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 52,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 52,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 53,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 53,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 79,
+      "label": "高音5",
+      "bar": 53,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 53,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 53,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 53,
+      "beat": 4,
+      "meter": 4,
+      "chord": "C",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 53,
+      "beat": 4,
+      "meter": 4,
+      "chord": "C",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 54,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 54,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 54,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Dm7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 54,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 54,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 54,
+      "beat": 3,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 54,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 54,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 55,
+      "beat": 1,
+      "meter": 2,
+      "chord": "Dm7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 55,
+      "beat": 1,
+      "meter": 2,
+      "chord": "Dm7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 55,
+      "beat": 2,
+      "meter": 2,
+      "chord": "Dm7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 77,
+      "label": "高音4",
+      "bar": 55,
+      "beat": 2,
+      "meter": 2,
+      "chord": "Dm7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 56,
+      "beat": 1,
+      "meter": 4,
+      "chord": "E7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 56,
+      "beat": 1,
+      "meter": 4,
+      "chord": "E7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 56,
+      "beat": 2,
+      "meter": 4,
+      "chord": "E7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 56,
+      "beat": 2,
+      "meter": 4,
+      "chord": "E7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 56,
+      "beat": 3,
+      "meter": 4,
+      "chord": "E7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 56,
+      "beat": 3,
+      "meter": 4,
+      "chord": "E7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 56,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 56,
+      "beat": 4,
+      "meter": 4,
+      "chord": "E7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 57,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 57,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 57,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 57,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 57,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 57,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4
+    },
+    {
+      "midi": 76,
+      "label": "高音3",
+      "bar": 58,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 74,
+      "label": "高音2",
+      "bar": 58,
+      "beat": 3,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 58,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 58,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 58,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 59,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Em7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 64,
+      "label": "3",
+      "bar": 59,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Em7",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 60,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 60,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 60,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 61,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 61,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 61,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5
+    },
+    {
+      "midi": 72,
+      "label": "高音1",
+      "bar": 62,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 62,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 62,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 62,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 62,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 62,
+      "beat": 2,
+      "meter": 4,
+      "chord": "Am",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 62,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 71,
+      "label": "7",
+      "bar": 62,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Am",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 63,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 63,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 63,
+      "beat": 1,
+      "meter": 4,
+      "chord": "G",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 63,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 63,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 63,
+      "beat": 2,
+      "meter": 4,
+      "chord": "G",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 63,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 69,
+      "label": "6",
+      "bar": 63,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 67,
+      "label": "5",
+      "bar": 63,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 64,
+      "label": "3",
+      "bar": 63,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 62,
+      "label": "2",
+      "bar": 63,
+      "beat": 4,
+      "meter": 4,
+      "chord": "G",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 62,
+      "label": "2",
+      "bar": 64,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 64,
+      "label": "3",
+      "bar": 64,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 60,
+      "label": "1",
+      "bar": 64,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 62,
+      "label": "2",
+      "bar": 64,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 60,
+      "label": "1",
+      "bar": 64,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 62,
+      "label": "2",
+      "bar": 64,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 60,
+      "label": "1",
+      "bar": 64,
+      "beat": 4,
+      "meter": 4,
+      "chord": "Fmaj7",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 62,
+      "label": "2",
+      "bar": 65,
+      "beat": 1,
+      "meter": 4,
+      "chord": "E7",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 64,
+      "label": "3",
+      "bar": 65,
+      "beat": 1,
+      "meter": 4,
+      "chord": "E7",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    },
+    {
+      "midi": 57,
+      "label": "低音6",
+      "bar": 66,
+      "beat": 1,
+      "meter": 4,
+      "chord": "Am",
+      "section": "尾奏",
+      "page": 2,
+      "line": 6
+    }
+  ],
+  "sections": [
+    {
+      "title": "前奏",
+      "index": 0
+    },
+    {
+      "title": "主歌一",
+      "index": 35
+    },
+    {
+      "title": "副歌一",
+      "index": 93
+    },
+    {
+      "title": "间奏",
+      "index": 158
+    },
+    {
+      "title": "主歌二",
+      "index": 222
+    },
+    {
+      "title": "副歌二",
+      "index": 280
+    },
+    {
+      "title": "最后副歌",
+      "index": 325
+    },
+    {
+      "title": "尾奏",
+      "index": 390
+    }
+  ],
+  "bars": [
+    {
+      "section": "前奏",
+      "page": 1,
+      "line": 1,
+      "beats": [
+        "Am:0 6 7"
+      ],
+      "meter": 4,
+      "start": 0,
+      "pickup": true,
+      "end": 2
+    },
+    {
+      "section": "前奏",
+      "page": 1,
+      "line": 1,
+      "beats": [
+        "Am:1+ 7 6 ",
+        " 6 7 6 ",
+        " ~6 ",
+        " 0 1+ 2+"
+      ],
+      "meter": 4,
+      "start": 2,
+      "end": 10
+    },
+    {
+      "section": "前奏",
+      "page": 1,
+      "line": 1,
+      "beats": [
+        "G:3+ 2+ 1+ ",
+        " 7 1+ 7 6 ",
+        " 5 ",
+        " _"
+      ],
+      "meter": 4,
+      "start": 10,
+      "end": 18
+    },
+    {
+      "section": "前奏",
+      "page": 1,
+      "line": 1,
+      "beats": [
+        "Fmaj7:6+ 3+ 3+ ",
+        " 6+ 3+ 2+ ",
+        " 3+ ",
+        " ~3+ 2+ 1+ 2+"
+      ],
+      "meter": 4,
+      "start": 18,
+      "end": 28
+    },
+    {
+      "section": "前奏",
+      "page": 1,
+      "line": 1,
+      "beats": [
+        "Esus7:3+ ",
+        " 3+ 3+ 4+ 3+ 2+ ",
+        " E7:3+ ",
+        " _"
+      ],
+      "meter": 4,
+      "start": 28,
+      "end": 35
+    },
+    {
+      "section": "主歌一",
+      "page": 1,
+      "line": 2,
+      "beats": [
+        "Am:1+ 7 6 ",
+        " 6 7 6 ",
+        " ~6 ",
+        " G_B:0 1+ 2+"
+      ],
+      "meter": 4,
+      "start": 35,
+      "end": 43
+    },
+    {
+      "section": "主歌一",
+      "page": 1,
+      "line": 2,
+      "beats": [
+        "C:3+ 2+ 1+ ",
+        " 7 1+ 7 ",
+        " Am:~7 6 ",
+        " 0 6"
+      ],
+      "meter": 4,
+      "start": 43,
+      "end": 51
+    },
+    {
+      "section": "主歌一",
+      "page": 1,
+      "line": 2,
+      "beats": [
+        "G:7 ",
+        " 6 ",
+        " 5 6 7 ",
+        " ~7 4"
+      ],
+      "meter": 4,
+      "start": 51,
+      "end": 57
+    },
+    {
+      "section": "主歌一",
+      "page": 1,
+      "line": 2,
+      "beats": [
+        "Esus7:3 ",
+        " 2 3 3 ",
+        " E7:~3 ",
+        " 0 6 7"
+      ],
+      "meter": 4,
+      "start": 57,
+      "end": 63
+    },
+    {
+      "section": "主歌一",
+      "page": 1,
+      "line": 3,
+      "beats": [
+        "Am:1+ 7 6 ",
+        " 6 7 6 ",
+        " ~6 ",
+        " G_B:0 1+ 2+"
+      ],
+      "meter": 4,
+      "start": 63,
+      "end": 71
+    },
+    {
+      "section": "主歌一",
+      "page": 1,
+      "line": 3,
+      "beats": [
+        "C:3+ 2+ 1+ ",
+        " 7 1+ 7 ",
+        " Am:~7 6 ",
+        " ~6"
+      ],
+      "meter": 4,
+      "start": 71,
+      "end": 78
+    },
+    {
+      "section": "主歌一",
+      "page": 1,
+      "line": 3,
+      "beats": [
+        "Dm7:2+ 2+ ",
+        " 2+ 3+ 4+ ",
+        " ~4+ 3+ 2+ ",
+        " 2+ 1+"
+      ],
+      "meter": 4,
+      "start": 78,
+      "end": 87
+    },
+    {
+      "section": "主歌一",
+      "page": 1,
+      "line": 3,
+      "beats": [
+        "Dm7:4+ 3+ ",
+        " 2+ 4+ 3+ ",
+        " E7:~3+ ",
+        " 0 3+"
+      ],
+      "meter": 4,
+      "start": 87,
+      "end": 93
+    },
+    {
+      "section": "副歌一",
+      "page": 1,
+      "line": 4,
+      "beats": [
+        "Am:6+ 6+ ",
+        " 6+ 3+ ",
+        " G:2+ ",
+        " 0 2+"
+      ],
+      "meter": 4,
+      "start": 93,
+      "end": 99
+    },
+    {
+      "section": "副歌一",
+      "page": 1,
+      "line": 4,
+      "beats": [
+        "G:5+ 5+ ",
+        " 5+ 2+ 3+ ",
+        " C:~3+ ",
+        " Em7:2+ 1+"
+      ],
+      "meter": 4,
+      "start": 99,
+      "end": 106
+    },
+    {
+      "section": "副歌一",
+      "page": 1,
+      "line": 4,
+      "beats": [
+        "Am:6+ 6+ ",
+        " 6+ 3+ ",
+        " G:2+ ",
+        " 0 2+"
+      ],
+      "meter": 4,
+      "start": 106,
+      "end": 112
+    },
+    {
+      "section": "副歌一",
+      "page": 1,
+      "line": 4,
+      "beats": [
+        "G:5+ 5+ ",
+        " 5+ 2+ 3+ ",
+        " C:~3+ ",
+        " 0 2+ 3+"
+      ],
+      "meter": 4,
+      "start": 112,
+      "end": 119
+    },
+    {
+      "section": "副歌一",
+      "page": 1,
+      "line": 5,
+      "beats": [
+        "Dm7:4+ 3+ ",
+        " 2+ ",
+        " Am:3+ 2+ 1+ ",
+        " ~1+ 2+ 3+"
+      ],
+      "meter": 4,
+      "start": 119,
+      "end": 127
+    },
+    {
+      "section": "副歌一",
+      "page": 1,
+      "line": 5,
+      "beats": [
+        "Dm7:4+ 3+ ",
+        " 2+ 4+"
+      ],
+      "meter": 2,
+      "start": 127,
+      "end": 131
+    },
+    {
+      "section": "副歌一",
+      "page": 1,
+      "line": 5,
+      "beats": [
+        "E7:3+ 3+ ",
+        " 3+ 3+ ",
+        " 3+ 2+ ",
+        " 1+ 7"
+      ],
+      "meter": 4,
+      "start": 131,
+      "end": 139
+    },
+    {
+      "section": "副歌一",
+      "page": 1,
+      "line": 5,
+      "beats": [
+        "Am:6 ",
+        " 3+ ",
+        " G:2+ ",
+        " 7 5 6"
+      ],
+      "meter": 4,
+      "start": 139,
+      "end": 145
+    },
+    {
+      "section": "副歌一",
+      "page": 1,
+      "line": 6,
+      "beats": [
+        "Am:~6 ",
+        " 3+ ",
+        " G:2+ ",
+        " 7 5 6"
+      ],
+      "meter": 4,
+      "start": 145,
+      "end": 150
+    },
+    {
+      "section": "副歌一",
+      "page": 1,
+      "line": 6,
+      "beats": [
+        "Fmaj7:~6 ",
+        " _ ",
+        " 0 ",
+        " Em7:5 3"
+      ],
+      "meter": 4,
+      "start": 150,
+      "end": 152
+    },
+    {
+      "section": "副歌一",
+      "page": 1,
+      "line": 6,
+      "beats": [
+        "Am:6 ",
+        " _ ",
+        " 0 ",
+        " 1+ 7"
+      ],
+      "meter": 4,
+      "start": 152,
+      "end": 155
+    },
+    {
+      "section": "副歌一",
+      "page": 1,
+      "line": 6,
+      "beats": [
+        "Am:6 ",
+        " _ ",
+        " 0 ",
+        " 0 6 7"
+      ],
+      "meter": 4,
+      "start": 155,
+      "end": 158
+    },
+    {
+      "section": "间奏",
+      "page": 1,
+      "line": 7,
+      "beats": [
+        "Am:1+ 7 6 ",
+        " ~6 7 6 ",
+        " ~6 ",
+        " G_B:~6 1+ 2+ 1+"
+      ],
+      "meter": 4,
+      "start": 158,
+      "end": 166
+    },
+    {
+      "section": "间奏",
+      "page": 1,
+      "line": 7,
+      "beats": [
+        "C:3+ ",
+        " 2+ 1+ ",
+        " 2+ 1+ 6 ",
+        " ~6 3+ 2+"
+      ],
+      "meter": 4,
+      "start": 166,
+      "end": 174
+    },
+    {
+      "section": "间奏",
+      "page": 1,
+      "line": 7,
+      "beats": [
+        "Dm7:2+ ",
+        " 6 ",
+        " 2+ 3+ 4+ ",
+        " 3+ 2+ 1+"
+      ],
+      "meter": 4,
+      "start": 174,
+      "end": 182
+    },
+    {
+      "section": "间奏",
+      "page": 1,
+      "line": 7,
+      "beats": [
+        "Esus7:3+ 3+ ",
+        " 3+ 6+ 7+ 1++ ",
+        " E7:7+ ",
+        " ~7+ 3+ 5+ 6+"
+      ],
+      "meter": 4,
+      "start": 182,
+      "end": 192
+    },
+    {
+      "section": "间奏",
+      "page": 1,
+      "line": 8,
+      "beats": [
+        "Am:6+ ",
+        " 3+ ",
+        " 6+ 7+ 1++ ",
+        " G_B:7+ 6+ 5+"
+      ],
+      "meter": 4,
+      "start": 192,
+      "end": 200
+    },
+    {
+      "section": "间奏",
+      "page": 1,
+      "line": 8,
+      "beats": [
+        "C:6+ 3+ 3+ ",
+        " ~3+ 2+ 3+ ",
+        " ~3+ ",
+        " _"
+      ],
+      "meter": 4,
+      "start": 200,
+      "end": 205
+    },
+    {
+      "section": "间奏",
+      "page": 1,
+      "line": 8,
+      "beats": [
+        "Dm7:6+ 3+ 2+ ",
+        " 5+ 2+ 1+ ",
+        " 4+ 7 6 ",
+        " 3+ 2+ 1+"
+      ],
+      "meter": 4,
+      "start": 205,
+      "end": 217
+    },
+    {
+      "section": "间奏",
+      "page": 1,
+      "line": 8,
+      "beats": [
+        "Esus7:3+ 3+ ",
+        " 3+ 3+ ",
+        " E7:3++ ",
+        " _"
+      ],
+      "meter": 4,
+      "start": 217,
+      "end": 222
+    },
+    {
+      "section": "主歌二",
+      "page": 1,
+      "line": 9,
+      "beats": [
+        "Am:1+ 7 6 ",
+        " 6 7 6 ",
+        " ~6 ",
+        " G_B:0 1+ 2+"
+      ],
+      "meter": 4,
+      "start": 222,
+      "end": 230
+    },
+    {
+      "section": "主歌二",
+      "page": 1,
+      "line": 9,
+      "beats": [
+        "C:3+ 2+ 1+ ",
+        " 7 1+ 7 ",
+        " Am:~7 6 ",
+        " 0 6"
+      ],
+      "meter": 4,
+      "start": 230,
+      "end": 238
+    },
+    {
+      "section": "主歌二",
+      "page": 1,
+      "line": 9,
+      "beats": [
+        "G:7 ",
+        " 6 ",
+        " 5 6 7 ",
+        " ~7 4"
+      ],
+      "meter": 4,
+      "start": 238,
+      "end": 244
+    },
+    {
+      "section": "主歌二",
+      "page": 1,
+      "line": 9,
+      "beats": [
+        "Esus7:3 ",
+        " 2 3 3 ",
+        " E7:~3 ",
+        " 0 6 7"
+      ],
+      "meter": 4,
+      "start": 244,
+      "end": 250
+    },
+    {
+      "section": "主歌二",
+      "page": 1,
+      "line": 10,
+      "beats": [
+        "Am:1+ 7 6 ",
+        " 6 7 6 ",
+        " ~6 ",
+        " G_B:0 1+ 2+"
+      ],
+      "meter": 4,
+      "start": 250,
+      "end": 258
+    },
+    {
+      "section": "主歌二",
+      "page": 1,
+      "line": 10,
+      "beats": [
+        "C:3+ 2+ 1+ ",
+        " 7 1+ 7 ",
+        " Am:~7 6 ",
+        " ~6"
+      ],
+      "meter": 4,
+      "start": 258,
+      "end": 265
+    },
+    {
+      "section": "主歌二",
+      "page": 1,
+      "line": 10,
+      "beats": [
+        "Dm7:2+ 2+ ",
+        " 2+ 3+ 4+ ",
+        " ~4+ 3+ 2+ ",
+        " 2+ 1+"
+      ],
+      "meter": 4,
+      "start": 265,
+      "end": 274
+    },
+    {
+      "section": "主歌二",
+      "page": 1,
+      "line": 10,
+      "beats": [
+        "Dm7:4+ 3+ ",
+        " 2+ 4+ 3+ ",
+        " E7:~3+ ",
+        " 0 3+"
+      ],
+      "meter": 4,
+      "start": 274,
+      "end": 280
+    },
+    {
+      "section": "副歌二",
+      "page": 2,
+      "line": 1,
+      "beats": [
+        "Am:6+ 6+ ",
+        " 6+ 3+ ",
+        " G:2+ ",
+        " 0 2+"
+      ],
+      "meter": 4,
+      "start": 280,
+      "end": 286
+    },
+    {
+      "section": "副歌二",
+      "page": 2,
+      "line": 1,
+      "beats": [
+        "G:5+ 5+ ",
+        " 5+ 2+ 3+ ",
+        " C:~3+ ",
+        " Em7:2+ 1+"
+      ],
+      "meter": 4,
+      "start": 286,
+      "end": 293
+    },
+    {
+      "section": "副歌二",
+      "page": 2,
+      "line": 1,
+      "beats": [
+        "Am:6+ 6+ ",
+        " 6+ 3+ ",
+        " G:2+ ",
+        " 0 2+"
+      ],
+      "meter": 4,
+      "start": 293,
+      "end": 299
+    },
+    {
+      "section": "副歌二",
+      "page": 2,
+      "line": 1,
+      "beats": [
+        "G:5+ 5+ ",
+        " 5+ 2+ 3+ ",
+        " C:~3+ ",
+        " 0 2+ 3+"
+      ],
+      "meter": 4,
+      "start": 299,
+      "end": 306
+    },
+    {
+      "section": "副歌二",
+      "page": 2,
+      "line": 2,
+      "beats": [
+        "Dm7:4+ 3+ ",
+        " 2+ ",
+        " Am:3+ 2+ 1+ ",
+        " ~1+ 2+ 3+"
+      ],
+      "meter": 4,
+      "start": 306,
+      "end": 314
+    },
+    {
+      "section": "副歌二",
+      "page": 2,
+      "line": 2,
+      "beats": [
+        "Dm7:4+ 3+ ",
+        " 2+ 4+"
+      ],
+      "meter": 2,
+      "start": 314,
+      "end": 318
+    },
+    {
+      "section": "副歌二",
+      "page": 2,
+      "line": 2,
+      "beats": [
+        "E7:3+ 3+ ",
+        " 3+ 3+ ",
+        " 3+ ",
+        " _"
+      ],
+      "meter": 4,
+      "start": 318,
+      "end": 323
+    },
+    {
+      "section": "副歌二",
+      "page": 2,
+      "line": 2,
+      "beats": [
+        "E7:#5+ ",
+        " _ ",
+        " _ ",
+        " 0 3+"
+      ],
+      "meter": 4,
+      "start": 323,
+      "end": 325
+    },
+    {
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3,
+      "beats": [
+        "Am:6+ 6+ ",
+        " 6+ 3+ ",
+        " G:2+ ",
+        " 0 2+"
+      ],
+      "meter": 4,
+      "start": 325,
+      "end": 331
+    },
+    {
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3,
+      "beats": [
+        "G:5+ 5+ ",
+        " 5+ 2+ 3+ ",
+        " C:~3+ ",
+        " Em7:2+ 1+"
+      ],
+      "meter": 4,
+      "start": 331,
+      "end": 338
+    },
+    {
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3,
+      "beats": [
+        "Am:6+ 6+ ",
+        " 6+ 3+ ",
+        " G:2+ ",
+        " 0 2+"
+      ],
+      "meter": 4,
+      "start": 338,
+      "end": 344
+    },
+    {
+      "section": "最后副歌",
+      "page": 2,
+      "line": 3,
+      "beats": [
+        "G:5+ 5+ ",
+        " 5+ 2+ 3+ ",
+        " C:~3+ ",
+        " 0 2+ 3+"
+      ],
+      "meter": 4,
+      "start": 344,
+      "end": 351
+    },
+    {
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4,
+      "beats": [
+        "Dm7:4+ 3+ ",
+        " 2+ ",
+        " Am:3+ 2+ 1+ ",
+        " ~1+ 2+ 3+"
+      ],
+      "meter": 4,
+      "start": 351,
+      "end": 359
+    },
+    {
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4,
+      "beats": [
+        "Dm7:4+ 3+ ",
+        " 2+ 4+"
+      ],
+      "meter": 2,
+      "start": 359,
+      "end": 363
+    },
+    {
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4,
+      "beats": [
+        "E7:3+ 3+ ",
+        " 3+ 3+ ",
+        " 3+ 2+ ",
+        " 1+ 7"
+      ],
+      "meter": 4,
+      "start": 363,
+      "end": 371
+    },
+    {
+      "section": "最后副歌",
+      "page": 2,
+      "line": 4,
+      "beats": [
+        "Am:6 ",
+        " 3+ ",
+        " G:2+ ",
+        " 7 5 6"
+      ],
+      "meter": 4,
+      "start": 371,
+      "end": 377
+    },
+    {
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5,
+      "beats": [
+        "Am:~6 ",
+        " 3+ ",
+        " G:2+ ",
+        " 7 5 6"
+      ],
+      "meter": 4,
+      "start": 377,
+      "end": 382
+    },
+    {
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5,
+      "beats": [
+        "Fmaj7:~6 ",
+        " _ ",
+        " 0 ",
+        " Em7:5 3"
+      ],
+      "meter": 4,
+      "start": 382,
+      "end": 384
+    },
+    {
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5,
+      "beats": [
+        "Am:6 ",
+        " _ ",
+        " 0 ",
+        " 1+ 7"
+      ],
+      "meter": 4,
+      "start": 384,
+      "end": 387
+    },
+    {
+      "section": "最后副歌",
+      "page": 2,
+      "line": 5,
+      "beats": [
+        "Am:6 ",
+        " _ ",
+        " 0 ",
+        " 0 6 7"
+      ],
+      "meter": 4,
+      "start": 387,
+      "end": 390
+    },
+    {
+      "section": "尾奏",
+      "page": 2,
+      "line": 6,
+      "beats": [
+        "Am:1+ 7 6 ",
+        " 6 7 6 ",
+        " ~6 ",
+        " 6 7"
+      ],
+      "meter": 4,
+      "start": 390,
+      "end": 398
+    },
+    {
+      "section": "尾奏",
+      "page": 2,
+      "line": 6,
+      "beats": [
+        "G:6 5 5 ",
+        " ~5 5 6 5 ",
+        " ~5 ",
+        " 5 6 5 3 2"
+      ],
+      "meter": 4,
+      "start": 398,
+      "end": 409
+    },
+    {
+      "section": "尾奏",
+      "page": 2,
+      "line": 6,
+      "beats": [
+        "Fmaj7:2 3 1 ",
+        " ~1 ",
+        " _ ",
+        " 2 1 2 1"
+      ],
+      "meter": 4,
+      "start": 409,
+      "end": 416
+    },
+    {
+      "section": "尾奏",
+      "page": 2,
+      "line": 6,
+      "beats": [
+        "E7:2 3 ",
+        " ~3 ",
+        " _ ",
+        " _"
+      ],
+      "meter": 4,
+      "start": 416,
+      "end": 418
+    },
+    {
+      "section": "尾奏",
+      "page": 2,
+      "line": 6,
+      "beats": [
+        "Am:6- ",
+        " _ ",
+        " _ ",
+        " _"
+      ],
+      "meter": 4,
+      "start": 418,
+      "end": 419
+    }
+  ],
+  "description": "全谱旋律跟弹，含前奏、间奏、尾奏；连音合并，休止不要求按键。小节与拍位按谱面标记，伴奏为独立简化练习伴奏。",
+  "actions": []
+}
