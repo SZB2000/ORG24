@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 2,
+  "revision": 3,
   "id": "liebie-adu-full-v1",
   "title": "离别",
   "artist": "阿杜",
@@ -129,7 +129,16 @@
       "chord": "G",
       "section": "前奏",
       "page": 1,
-      "line": 1
+      "line": 1,
+      "triplet": 1,
+      "tripletIndex": 0,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 74,
@@ -140,7 +149,16 @@
       "chord": "G",
       "section": "前奏",
       "page": 1,
-      "line": 1
+      "line": 1,
+      "triplet": 1,
+      "tripletIndex": 1,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 72,
@@ -151,7 +169,16 @@
       "chord": "G",
       "section": "前奏",
       "page": 1,
-      "line": 1
+      "line": 1,
+      "triplet": 1,
+      "tripletIndex": 2,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 71,
@@ -162,7 +189,16 @@
       "chord": "G",
       "section": "前奏",
       "page": 1,
-      "line": 1
+      "line": 1,
+      "triplet": 2,
+      "tripletIndex": 0,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        2
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 72,
@@ -173,7 +209,16 @@
       "chord": "G",
       "section": "前奏",
       "page": 1,
-      "line": 1
+      "line": 1,
+      "triplet": 2,
+      "tripletIndex": 1,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        2
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 71,
@@ -184,7 +229,16 @@
       "chord": "G",
       "section": "前奏",
       "page": 1,
-      "line": 1
+      "line": 1,
+      "triplet": 2,
+      "tripletIndex": 2,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        2
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 69,
@@ -209,74 +263,128 @@
       "line": 1
     },
     {
-      "midi": 81,
-      "label": "高音6",
+      "midi": 69,
+      "label": "6",
       "bar": 4,
       "beat": 1,
       "meter": 4,
       "chord": "Fmaj7",
       "section": "前奏",
       "page": 1,
-      "line": 1
+      "line": 1,
+      "triplet": 3,
+      "tripletIndex": 0,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
-      "midi": 76,
-      "label": "高音3",
+      "midi": 64,
+      "label": "3",
       "bar": 4,
       "beat": 1,
       "meter": 4,
       "chord": "Fmaj7",
       "section": "前奏",
       "page": 1,
-      "line": 1
+      "line": 1,
+      "triplet": 3,
+      "tripletIndex": 1,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
-      "midi": 76,
-      "label": "高音3",
+      "midi": 64,
+      "label": "3",
       "bar": 4,
       "beat": 1,
       "meter": 4,
       "chord": "Fmaj7",
       "section": "前奏",
       "page": 1,
-      "line": 1
+      "line": 1,
+      "triplet": 3,
+      "tripletIndex": 2,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
-      "midi": 81,
-      "label": "高音6",
+      "midi": 69,
+      "label": "6",
       "bar": 4,
       "beat": 2,
       "meter": 4,
       "chord": "Fmaj7",
       "section": "前奏",
       "page": 1,
-      "line": 1
+      "line": 1,
+      "triplet": 4,
+      "tripletIndex": 0,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
-      "midi": 76,
-      "label": "高音3",
+      "midi": 64,
+      "label": "3",
       "bar": 4,
       "beat": 2,
       "meter": 4,
       "chord": "Fmaj7",
       "section": "前奏",
       "page": 1,
-      "line": 1
+      "line": 1,
+      "triplet": 4,
+      "tripletIndex": 1,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
-      "midi": 74,
-      "label": "高音2",
+      "midi": 62,
+      "label": "2",
       "bar": 4,
       "beat": 2,
       "meter": 4,
       "chord": "Fmaj7",
       "section": "前奏",
       "page": 1,
-      "line": 1
+      "line": 1,
+      "triplet": 4,
+      "tripletIndex": 2,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
-      "midi": 76,
-      "label": "高音3",
+      "midi": 64,
+      "label": "3",
       "bar": 4,
       "beat": 3,
       "meter": 4,
@@ -286,8 +394,8 @@
       "line": 1
     },
     {
-      "midi": 74,
-      "label": "高音2",
+      "midi": 62,
+      "label": "2",
       "bar": 4,
       "beat": 4,
       "meter": 4,
@@ -297,8 +405,8 @@
       "line": 1
     },
     {
-      "midi": 72,
-      "label": "高音1",
+      "midi": 60,
+      "label": "1",
       "bar": 4,
       "beat": 4,
       "meter": 4,
@@ -308,8 +416,8 @@
       "line": 1
     },
     {
-      "midi": 74,
-      "label": "高音2",
+      "midi": 62,
+      "label": "2",
       "bar": 4,
       "beat": 4,
       "meter": 4,
@@ -319,8 +427,8 @@
       "line": 1
     },
     {
-      "midi": 76,
-      "label": "高音3",
+      "midi": 64,
+      "label": "3",
       "bar": 5,
       "beat": 1,
       "meter": 4,
@@ -330,8 +438,8 @@
       "line": 1
     },
     {
-      "midi": 76,
-      "label": "高音3",
+      "midi": 64,
+      "label": "3",
       "bar": 5,
       "beat": 2,
       "meter": 4,
@@ -341,8 +449,8 @@
       "line": 1
     },
     {
-      "midi": 76,
-      "label": "高音3",
+      "midi": 65,
+      "label": "4",
       "bar": 5,
       "beat": 2,
       "meter": 4,
@@ -352,8 +460,8 @@
       "line": 1
     },
     {
-      "midi": 77,
-      "label": "高音4",
+      "midi": 64,
+      "label": "3",
       "bar": 5,
       "beat": 2,
       "meter": 4,
@@ -363,8 +471,8 @@
       "line": 1
     },
     {
-      "midi": 76,
-      "label": "高音3",
+      "midi": 62,
+      "label": "2",
       "bar": 5,
       "beat": 2,
       "meter": 4,
@@ -374,19 +482,8 @@
       "line": 1
     },
     {
-      "midi": 74,
-      "label": "高音2",
-      "bar": 5,
-      "beat": 2,
-      "meter": 4,
-      "chord": "Esus7",
-      "section": "前奏",
-      "page": 1,
-      "line": 1
-    },
-    {
-      "midi": 76,
-      "label": "高音3",
+      "midi": 64,
+      "label": "3",
       "bar": 5,
       "beat": 3,
       "meter": 4,
@@ -946,17 +1043,6 @@
       "line": 3
     },
     {
-      "midi": 74,
-      "label": "高音2",
-      "bar": 12,
-      "beat": 4,
-      "meter": 4,
-      "chord": "Dm7",
-      "section": "主歌一",
-      "page": 1,
-      "line": 3
-    },
-    {
       "midi": 72,
       "label": "高音1",
       "bar": 12,
@@ -1925,17 +2011,6 @@
       "line": 7
     },
     {
-      "midi": 74,
-      "label": "高音2",
-      "bar": 28,
-      "beat": 1,
-      "meter": 4,
-      "chord": "Dm7",
-      "section": "间奏",
-      "page": 1,
-      "line": 7
-    },
-    {
       "midi": 69,
       "label": "6",
       "bar": 28,
@@ -1955,7 +2030,16 @@
       "chord": "Dm7",
       "section": "间奏",
       "page": 1,
-      "line": 7
+      "line": 7,
+      "triplet": 5,
+      "tripletIndex": 0,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 76,
@@ -1966,7 +2050,16 @@
       "chord": "Dm7",
       "section": "间奏",
       "page": 1,
-      "line": 7
+      "line": 7,
+      "triplet": 5,
+      "tripletIndex": 1,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 77,
@@ -1977,7 +2070,16 @@
       "chord": "Dm7",
       "section": "间奏",
       "page": 1,
-      "line": 7
+      "line": 7,
+      "triplet": 5,
+      "tripletIndex": 2,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 76,
@@ -1988,7 +2090,16 @@
       "chord": "Dm7",
       "section": "间奏",
       "page": 1,
-      "line": 7
+      "line": 7,
+      "triplet": 6,
+      "tripletIndex": 0,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 74,
@@ -1999,7 +2110,16 @@
       "chord": "Dm7",
       "section": "间奏",
       "page": 1,
-      "line": 7
+      "line": 7,
+      "triplet": 6,
+      "tripletIndex": 1,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 72,
@@ -2010,7 +2130,16 @@
       "chord": "Dm7",
       "section": "间奏",
       "page": 1,
-      "line": 7
+      "line": 7,
+      "triplet": 6,
+      "tripletIndex": 2,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 76,
@@ -2153,7 +2282,16 @@
       "chord": "Am",
       "section": "间奏",
       "page": 1,
-      "line": 8
+      "line": 8,
+      "triplet": 7,
+      "tripletIndex": 0,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 83,
@@ -2164,7 +2302,16 @@
       "chord": "Am",
       "section": "间奏",
       "page": 1,
-      "line": 8
+      "line": 8,
+      "triplet": 7,
+      "tripletIndex": 1,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 84,
@@ -2175,7 +2322,16 @@
       "chord": "Am",
       "section": "间奏",
       "page": 1,
-      "line": 8
+      "line": 8,
+      "triplet": 7,
+      "tripletIndex": 2,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 83,
@@ -2186,7 +2342,16 @@
       "chord": "G_B",
       "section": "间奏",
       "page": 1,
-      "line": 8
+      "line": 8,
+      "triplet": 8,
+      "tripletIndex": 0,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 81,
@@ -2197,7 +2362,16 @@
       "chord": "G_B",
       "section": "间奏",
       "page": 1,
-      "line": 8
+      "line": 8,
+      "triplet": 8,
+      "tripletIndex": 1,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 79,
@@ -2208,7 +2382,16 @@
       "chord": "G_B",
       "section": "间奏",
       "page": 1,
-      "line": 8
+      "line": 8,
+      "triplet": 8,
+      "tripletIndex": 2,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 81,
@@ -2274,7 +2457,16 @@
       "chord": "Dm7",
       "section": "间奏",
       "page": 1,
-      "line": 8
+      "line": 8,
+      "triplet": 9,
+      "tripletIndex": 0,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 76,
@@ -2285,7 +2477,16 @@
       "chord": "Dm7",
       "section": "间奏",
       "page": 1,
-      "line": 8
+      "line": 8,
+      "triplet": 9,
+      "tripletIndex": 1,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 74,
@@ -2296,7 +2497,16 @@
       "chord": "Dm7",
       "section": "间奏",
       "page": 1,
-      "line": 8
+      "line": 8,
+      "triplet": 9,
+      "tripletIndex": 2,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 79,
@@ -2373,7 +2583,16 @@
       "chord": "Dm7",
       "section": "间奏",
       "page": 1,
-      "line": 8
+      "line": 8,
+      "triplet": 10,
+      "tripletIndex": 0,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 74,
@@ -2384,7 +2603,16 @@
       "chord": "Dm7",
       "section": "间奏",
       "page": 1,
-      "line": 8
+      "line": 8,
+      "triplet": 10,
+      "tripletIndex": 1,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 72,
@@ -2395,7 +2623,16 @@
       "chord": "Dm7",
       "section": "间奏",
       "page": 1,
-      "line": 8
+      "line": 8,
+      "triplet": 10,
+      "tripletIndex": 2,
+      "tripletSize": 3,
+      "tripletSpan": [
+        1,
+        1
+      ],
+      "tupletActual": 3,
+      "tupletNormal": 2
     },
     {
       "midi": 76,
@@ -2996,17 +3233,6 @@
       "label": "高音2",
       "bar": 40,
       "beat": 3,
-      "meter": 4,
-      "chord": "Dm7",
-      "section": "主歌二",
-      "page": 1,
-      "line": 10
-    },
-    {
-      "midi": 74,
-      "label": "高音2",
-      "bar": 40,
-      "beat": 4,
       "meter": 4,
       "chord": "Dm7",
       "section": "主歌二",
@@ -4627,31 +4853,31 @@
     },
     {
       "title": "主歌一",
-      "index": 35
+      "index": 34
     },
     {
       "title": "副歌一",
-      "index": 93
+      "index": 91
     },
     {
       "title": "间奏",
-      "index": 158
+      "index": 156
     },
     {
       "title": "主歌二",
-      "index": 222
+      "index": 219
     },
     {
       "title": "副歌二",
-      "index": 280
+      "index": 276
     },
     {
       "title": "最后副歌",
-      "index": 325
+      "index": 321
     },
     {
       "title": "尾奏",
-      "index": 390
+      "index": 386
     }
   ],
   "bars": [
@@ -4700,10 +4926,10 @@
       "page": 1,
       "line": 1,
       "beats": [
-        "Fmaj7:6+ 3+ 3+ ",
-        " 6+ 3+ 2+ ",
-        " 3+ ",
-        " ~3+ 2+ 1+ 2+"
+        "Fmaj7:6 3 3 ",
+        " 6 3 2 ",
+        " 3 ",
+        " ~3 2 1 2"
       ],
       "meter": 4,
       "start": 18,
@@ -4714,14 +4940,14 @@
       "page": 1,
       "line": 1,
       "beats": [
-        "Esus7:3+ ",
-        " 3+ 3+ 4+ 3+ 2+ ",
-        " E7:3+ ",
+        "Esus7:3 ",
+        " ~3 3 4 3 2 ",
+        " E7:3 ",
         " _"
       ],
       "meter": 4,
       "start": 28,
-      "end": 35
+      "end": 34
     },
     {
       "section": "主歌一",
@@ -4734,8 +4960,8 @@
         " G_B:0 1+ 2+"
       ],
       "meter": 4,
-      "start": 35,
-      "end": 43
+      "start": 34,
+      "end": 42
     },
     {
       "section": "主歌一",
@@ -4748,8 +4974,8 @@
         " 0 6"
       ],
       "meter": 4,
-      "start": 43,
-      "end": 51
+      "start": 42,
+      "end": 50
     },
     {
       "section": "主歌一",
@@ -4762,8 +4988,8 @@
         " ~7 4"
       ],
       "meter": 4,
-      "start": 51,
-      "end": 57
+      "start": 50,
+      "end": 56
     },
     {
       "section": "主歌一",
@@ -4776,8 +5002,8 @@
         " 0 6 7"
       ],
       "meter": 4,
-      "start": 57,
-      "end": 63
+      "start": 56,
+      "end": 62
     },
     {
       "section": "主歌一",
@@ -4790,8 +5016,8 @@
         " G_B:0 1+ 2+"
       ],
       "meter": 4,
-      "start": 63,
-      "end": 71
+      "start": 62,
+      "end": 70
     },
     {
       "section": "主歌一",
@@ -4804,8 +5030,8 @@
         " ~6"
       ],
       "meter": 4,
-      "start": 71,
-      "end": 78
+      "start": 70,
+      "end": 77
     },
     {
       "section": "主歌一",
@@ -4815,11 +5041,11 @@
         "Dm7:2+ 2+ ",
         " 2+ 3+ 4+ ",
         " ~4+ 3+ 2+ ",
-        " 2+ 1+"
+        " ~2+ 1+"
       ],
       "meter": 4,
-      "start": 78,
-      "end": 87
+      "start": 77,
+      "end": 85
     },
     {
       "section": "主歌一",
@@ -4832,8 +5058,8 @@
         " 0 3+"
       ],
       "meter": 4,
-      "start": 87,
-      "end": 93
+      "start": 85,
+      "end": 91
     },
     {
       "section": "副歌一",
@@ -4846,8 +5072,8 @@
         " 0 2+"
       ],
       "meter": 4,
-      "start": 93,
-      "end": 99
+      "start": 91,
+      "end": 97
     },
     {
       "section": "副歌一",
@@ -4860,8 +5086,8 @@
         " Em7:2+ 1+"
       ],
       "meter": 4,
-      "start": 99,
-      "end": 106
+      "start": 97,
+      "end": 104
     },
     {
       "section": "副歌一",
@@ -4874,8 +5100,8 @@
         " 0 2+"
       ],
       "meter": 4,
-      "start": 106,
-      "end": 112
+      "start": 104,
+      "end": 110
     },
     {
       "section": "副歌一",
@@ -4888,8 +5114,8 @@
         " 0 2+ 3+"
       ],
       "meter": 4,
-      "start": 112,
-      "end": 119
+      "start": 110,
+      "end": 117
     },
     {
       "section": "副歌一",
@@ -4902,8 +5128,8 @@
         " ~1+ 2+ 3+"
       ],
       "meter": 4,
-      "start": 119,
-      "end": 127
+      "start": 117,
+      "end": 125
     },
     {
       "section": "副歌一",
@@ -4914,8 +5140,8 @@
         " 2+ 4+"
       ],
       "meter": 2,
-      "start": 127,
-      "end": 131
+      "start": 125,
+      "end": 129
     },
     {
       "section": "副歌一",
@@ -4928,8 +5154,8 @@
         " 1+ 7"
       ],
       "meter": 4,
-      "start": 131,
-      "end": 139
+      "start": 129,
+      "end": 137
     },
     {
       "section": "副歌一",
@@ -4942,8 +5168,8 @@
         " 7 5 6"
       ],
       "meter": 4,
-      "start": 139,
-      "end": 145
+      "start": 137,
+      "end": 143
     },
     {
       "section": "副歌一",
@@ -4956,8 +5182,8 @@
         " 7 5 6"
       ],
       "meter": 4,
-      "start": 145,
-      "end": 150
+      "start": 143,
+      "end": 148
     },
     {
       "section": "副歌一",
@@ -4970,8 +5196,8 @@
         " Em7:5 3"
       ],
       "meter": 4,
-      "start": 150,
-      "end": 152
+      "start": 148,
+      "end": 150
     },
     {
       "section": "副歌一",
@@ -4984,8 +5210,8 @@
         " 1+ 7"
       ],
       "meter": 4,
-      "start": 152,
-      "end": 155
+      "start": 150,
+      "end": 153
     },
     {
       "section": "副歌一",
@@ -4998,8 +5224,8 @@
         " 0 6 7"
       ],
       "meter": 4,
-      "start": 155,
-      "end": 158
+      "start": 153,
+      "end": 156
     },
     {
       "section": "间奏",
@@ -5012,8 +5238,8 @@
         " G_B:~6 1+ 2+ 1+"
       ],
       "meter": 4,
-      "start": 158,
-      "end": 166
+      "start": 156,
+      "end": 164
     },
     {
       "section": "间奏",
@@ -5026,22 +5252,22 @@
         " ~6 3+ 2+"
       ],
       "meter": 4,
-      "start": 166,
-      "end": 174
+      "start": 164,
+      "end": 172
     },
     {
       "section": "间奏",
       "page": 1,
       "line": 7,
       "beats": [
-        "Dm7:2+ ",
+        "Dm7:~2+ ",
         " 6 ",
         " 2+ 3+ 4+ ",
         " 3+ 2+ 1+"
       ],
       "meter": 4,
-      "start": 174,
-      "end": 182
+      "start": 172,
+      "end": 179
     },
     {
       "section": "间奏",
@@ -5054,8 +5280,8 @@
         " ~7+ 3+ 5+ 6+"
       ],
       "meter": 4,
-      "start": 182,
-      "end": 192
+      "start": 179,
+      "end": 189
     },
     {
       "section": "间奏",
@@ -5068,8 +5294,8 @@
         " G_B:7+ 6+ 5+"
       ],
       "meter": 4,
-      "start": 192,
-      "end": 200
+      "start": 189,
+      "end": 197
     },
     {
       "section": "间奏",
@@ -5082,8 +5308,8 @@
         " _"
       ],
       "meter": 4,
-      "start": 200,
-      "end": 205
+      "start": 197,
+      "end": 202
     },
     {
       "section": "间奏",
@@ -5096,8 +5322,8 @@
         " 3+ 2+ 1+"
       ],
       "meter": 4,
-      "start": 205,
-      "end": 217
+      "start": 202,
+      "end": 214
     },
     {
       "section": "间奏",
@@ -5110,8 +5336,8 @@
         " _"
       ],
       "meter": 4,
-      "start": 217,
-      "end": 222
+      "start": 214,
+      "end": 219
     },
     {
       "section": "主歌二",
@@ -5124,8 +5350,8 @@
         " G_B:0 1+ 2+"
       ],
       "meter": 4,
-      "start": 222,
-      "end": 230
+      "start": 219,
+      "end": 227
     },
     {
       "section": "主歌二",
@@ -5138,8 +5364,8 @@
         " 0 6"
       ],
       "meter": 4,
-      "start": 230,
-      "end": 238
+      "start": 227,
+      "end": 235
     },
     {
       "section": "主歌二",
@@ -5152,8 +5378,8 @@
         " ~7 4"
       ],
       "meter": 4,
-      "start": 238,
-      "end": 244
+      "start": 235,
+      "end": 241
     },
     {
       "section": "主歌二",
@@ -5166,8 +5392,8 @@
         " 0 6 7"
       ],
       "meter": 4,
-      "start": 244,
-      "end": 250
+      "start": 241,
+      "end": 247
     },
     {
       "section": "主歌二",
@@ -5180,8 +5406,8 @@
         " G_B:0 1+ 2+"
       ],
       "meter": 4,
-      "start": 250,
-      "end": 258
+      "start": 247,
+      "end": 255
     },
     {
       "section": "主歌二",
@@ -5194,8 +5420,8 @@
         " ~6"
       ],
       "meter": 4,
-      "start": 258,
-      "end": 265
+      "start": 255,
+      "end": 262
     },
     {
       "section": "主歌二",
@@ -5205,11 +5431,11 @@
         "Dm7:2+ 2+ ",
         " 2+ 3+ 4+ ",
         " ~4+ 3+ 2+ ",
-        " 2+ 1+"
+        " ~2+ 1+"
       ],
       "meter": 4,
-      "start": 265,
-      "end": 274
+      "start": 262,
+      "end": 270
     },
     {
       "section": "主歌二",
@@ -5222,8 +5448,8 @@
         " 0 3+"
       ],
       "meter": 4,
-      "start": 274,
-      "end": 280
+      "start": 270,
+      "end": 276
     },
     {
       "section": "副歌二",
@@ -5236,8 +5462,8 @@
         " 0 2+"
       ],
       "meter": 4,
-      "start": 280,
-      "end": 286
+      "start": 276,
+      "end": 282
     },
     {
       "section": "副歌二",
@@ -5250,8 +5476,8 @@
         " Em7:2+ 1+"
       ],
       "meter": 4,
-      "start": 286,
-      "end": 293
+      "start": 282,
+      "end": 289
     },
     {
       "section": "副歌二",
@@ -5264,8 +5490,8 @@
         " 0 2+"
       ],
       "meter": 4,
-      "start": 293,
-      "end": 299
+      "start": 289,
+      "end": 295
     },
     {
       "section": "副歌二",
@@ -5278,8 +5504,8 @@
         " 0 2+ 3+"
       ],
       "meter": 4,
-      "start": 299,
-      "end": 306
+      "start": 295,
+      "end": 302
     },
     {
       "section": "副歌二",
@@ -5292,8 +5518,8 @@
         " ~1+ 2+ 3+"
       ],
       "meter": 4,
-      "start": 306,
-      "end": 314
+      "start": 302,
+      "end": 310
     },
     {
       "section": "副歌二",
@@ -5304,8 +5530,8 @@
         " 2+ 4+"
       ],
       "meter": 2,
-      "start": 314,
-      "end": 318
+      "start": 310,
+      "end": 314
     },
     {
       "section": "副歌二",
@@ -5318,8 +5544,8 @@
         " _"
       ],
       "meter": 4,
-      "start": 318,
-      "end": 323
+      "start": 314,
+      "end": 319
     },
     {
       "section": "副歌二",
@@ -5332,8 +5558,8 @@
         " 0 3+"
       ],
       "meter": 4,
-      "start": 323,
-      "end": 325
+      "start": 319,
+      "end": 321
     },
     {
       "section": "最后副歌",
@@ -5346,8 +5572,8 @@
         " 0 2+"
       ],
       "meter": 4,
-      "start": 325,
-      "end": 331
+      "start": 321,
+      "end": 327
     },
     {
       "section": "最后副歌",
@@ -5360,8 +5586,8 @@
         " Em7:2+ 1+"
       ],
       "meter": 4,
-      "start": 331,
-      "end": 338
+      "start": 327,
+      "end": 334
     },
     {
       "section": "最后副歌",
@@ -5374,8 +5600,8 @@
         " 0 2+"
       ],
       "meter": 4,
-      "start": 338,
-      "end": 344
+      "start": 334,
+      "end": 340
     },
     {
       "section": "最后副歌",
@@ -5388,8 +5614,8 @@
         " 0 2+ 3+"
       ],
       "meter": 4,
-      "start": 344,
-      "end": 351
+      "start": 340,
+      "end": 347
     },
     {
       "section": "最后副歌",
@@ -5402,8 +5628,8 @@
         " ~1+ 2+ 3+"
       ],
       "meter": 4,
-      "start": 351,
-      "end": 359
+      "start": 347,
+      "end": 355
     },
     {
       "section": "最后副歌",
@@ -5414,8 +5640,8 @@
         " 2+ 4+"
       ],
       "meter": 2,
-      "start": 359,
-      "end": 363
+      "start": 355,
+      "end": 359
     },
     {
       "section": "最后副歌",
@@ -5428,8 +5654,8 @@
         " 1+ 7"
       ],
       "meter": 4,
-      "start": 363,
-      "end": 371
+      "start": 359,
+      "end": 367
     },
     {
       "section": "最后副歌",
@@ -5442,8 +5668,8 @@
         " 7 5 6"
       ],
       "meter": 4,
-      "start": 371,
-      "end": 377
+      "start": 367,
+      "end": 373
     },
     {
       "section": "最后副歌",
@@ -5456,8 +5682,8 @@
         " 7 5 6"
       ],
       "meter": 4,
-      "start": 377,
-      "end": 382
+      "start": 373,
+      "end": 378
     },
     {
       "section": "最后副歌",
@@ -5470,8 +5696,8 @@
         " Em7:5 3"
       ],
       "meter": 4,
-      "start": 382,
-      "end": 384
+      "start": 378,
+      "end": 380
     },
     {
       "section": "最后副歌",
@@ -5484,8 +5710,8 @@
         " 1+ 7"
       ],
       "meter": 4,
-      "start": 384,
-      "end": 387
+      "start": 380,
+      "end": 383
     },
     {
       "section": "最后副歌",
@@ -5498,8 +5724,8 @@
         " 0 6 7"
       ],
       "meter": 4,
-      "start": 387,
-      "end": 390
+      "start": 383,
+      "end": 386
     },
     {
       "section": "尾奏",
@@ -5512,8 +5738,8 @@
         " 6 7"
       ],
       "meter": 4,
-      "start": 390,
-      "end": 398
+      "start": 386,
+      "end": 394
     },
     {
       "section": "尾奏",
@@ -5526,8 +5752,8 @@
         " 5 6 5 3 2"
       ],
       "meter": 4,
-      "start": 398,
-      "end": 409
+      "start": 394,
+      "end": 405
     },
     {
       "section": "尾奏",
@@ -5540,8 +5766,8 @@
         " 2 1 2 1"
       ],
       "meter": 4,
-      "start": 409,
-      "end": 416
+      "start": 405,
+      "end": 412
     },
     {
       "section": "尾奏",
@@ -5554,8 +5780,8 @@
         " _"
       ],
       "meter": 4,
-      "start": 416,
-      "end": 418
+      "start": 412,
+      "end": 414
     },
     {
       "section": "尾奏",
@@ -5568,10 +5794,182 @@
         " _"
       ],
       "meter": 4,
-      "start": 418,
-      "end": 419
+      "start": 414,
+      "end": 415
+    }
+  ],
+  "triplets": [
+    {
+      "id": 1,
+      "indices": [
+        10,
+        11,
+        12
+      ],
+      "spanQuarterBeats": [
+        1,
+        1
+      ],
+      "page": 1,
+      "line": 1,
+      "bar": 3,
+      "beat": 1
+    },
+    {
+      "id": 2,
+      "indices": [
+        13,
+        14,
+        15
+      ],
+      "spanQuarterBeats": [
+        1,
+        2
+      ],
+      "page": 1,
+      "line": 1,
+      "bar": 3,
+      "beat": 2
+    },
+    {
+      "id": 3,
+      "indices": [
+        18,
+        19,
+        20
+      ],
+      "spanQuarterBeats": [
+        1,
+        1
+      ],
+      "page": 1,
+      "line": 1,
+      "bar": 4,
+      "beat": 1
+    },
+    {
+      "id": 4,
+      "indices": [
+        21,
+        22,
+        23
+      ],
+      "spanQuarterBeats": [
+        1,
+        1
+      ],
+      "page": 1,
+      "line": 1,
+      "bar": 4,
+      "beat": 2
+    },
+    {
+      "id": 5,
+      "indices": [
+        173,
+        174,
+        175
+      ],
+      "spanQuarterBeats": [
+        1,
+        1
+      ],
+      "page": 1,
+      "line": 7,
+      "bar": 28,
+      "beat": 3
+    },
+    {
+      "id": 6,
+      "indices": [
+        176,
+        177,
+        178
+      ],
+      "spanQuarterBeats": [
+        1,
+        1
+      ],
+      "page": 1,
+      "line": 7,
+      "bar": 28,
+      "beat": 4
+    },
+    {
+      "id": 7,
+      "indices": [
+        191,
+        192,
+        193
+      ],
+      "spanQuarterBeats": [
+        1,
+        1
+      ],
+      "page": 1,
+      "line": 8,
+      "bar": 30,
+      "beat": 3
+    },
+    {
+      "id": 8,
+      "indices": [
+        194,
+        195,
+        196
+      ],
+      "spanQuarterBeats": [
+        1,
+        1
+      ],
+      "page": 1,
+      "line": 8,
+      "bar": 30,
+      "beat": 4
+    },
+    {
+      "id": 9,
+      "indices": [
+        202,
+        203,
+        204
+      ],
+      "spanQuarterBeats": [
+        1,
+        1
+      ],
+      "page": 1,
+      "line": 8,
+      "bar": 32,
+      "beat": 1
+    },
+    {
+      "id": 10,
+      "indices": [
+        211,
+        212,
+        213
+      ],
+      "spanQuarterBeats": [
+        1,
+        1
+      ],
+      "page": 1,
+      "line": 8,
+      "bar": 32,
+      "beat": 4
     }
   ],
   "description": "全谱旋律跟弹，含前奏、间奏、尾奏；连音合并，休止不要求按键。小节与拍位按谱面标记，伴奏为独立简化练习伴奏。",
-  "actions": []
+  "actions": [],
+  "audit": {
+    "revision": 3,
+    "pagesReviewed": [
+      1,
+      2
+    ],
+    "sourceLinesReviewed": 16,
+    "tripletGroups": 10,
+    "timingPolicy": "等待跟弹；三连音分组与总时值已标注，非逐音节奏评分。"
+  }
 }
