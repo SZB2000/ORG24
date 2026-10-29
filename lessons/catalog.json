@@ -1,17 +1,29 @@
 {
   "schema": 1,
-  "revision": 2,
+  "revision": 3,
   "songs": [
     {
       "id": "dongji-taibei",
-      "title": "冬季到台北来看雨",
+      "title": "冬季到台北来看雨（吉他版）",
       "artist": "孟庭苇",
       "engine": "org24-guitar-v1",
-      "revision": 2,
-      "size": 4585513,
-      "unpackedSize": 5448709,
-      "sha256": "7be84e9cc4589cd0b1e72baf9f42558c67540908cbdf59dffe916a18f2636168",
-      "url": "https://github.com/SZB2000/Super-Piano/releases/download/lessons-v1/dongji-taibei-v2.zip"
+      "revision": 3,
+      "size": 4583688,
+      "unpackedSize": 5448724,
+      "sha256": "3685fb385a8f4e1104be28dda022877afdb0149646d5e29e88342883bc733b55",
+      "url": "https://github.com/SZB2000/Super-Piano/releases/download/lessons-v1/dongji-taibei-v3.zip"
+    },
+    {
+      "id": "dongji-taibei-piano",
+      "title": "冬季到台北来看雨（钢琴版·校对）",
+      "artist": "孟庭苇",
+      "engine": "org24-guitar-v1",
+      "revision": 1,
+      "size": 10858830,
+      "unpackedSize": 13570174,
+      "sha256": "40cae95c21c50217799665c323d66c448761e59b82fe4e9551c48144c40b0445",
+      "url": "https://github.com/SZB2000/Super-Piano/releases/download/lessons-v1/dongji-taibei-piano-v1.zip",
+      "status": "review-draft"
     }
   ]
 }
